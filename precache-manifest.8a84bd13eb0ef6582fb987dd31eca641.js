@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff9668a0bd38ee1c445a02a6741eaa10",
+    "revision": "275e127fd094e91e36c60f486b588b3c",
     "url": "/index.html"
   },
   {
-    "revision": "7719d95fd23a89640187",
+    "revision": "cdd6876eb981ae5e20b7",
     "url": "/static/css/main.da005ed0.chunk.css"
   },
   {
-    "revision": "cb8faf611226dccb30f5",
-    "url": "/static/js/2.107eccc5.chunk.js"
+    "revision": "1f257c4494589894948c",
+    "url": "/static/js/2.87d7ffa8.chunk.js"
   },
   {
-    "revision": "7719d95fd23a89640187",
-    "url": "/static/js/main.d27d765b.chunk.js"
+    "revision": "cdd6876eb981ae5e20b7",
+    "url": "/static/js/main.55b2946a.chunk.js"
   },
   {
     "revision": "add4100c9c4aa7e9dc95",
@@ -24,52 +24,60 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/almacenaje.bc1d0ac9.jpg"
   },
   {
-    "revision": "b4af6981a664f5140d655aa025d5e618",
-    "url": "/static/media/artis.b4af6981.jpg"
-  },
-  {
-    "revision": "eddb72d268a44b1ee5b892669bcf388d",
-    "url": "/static/media/artis.eddb72d2.png"
-  },
-  {
-    "revision": "dc9db7e3009f28027669c780a405d0a0",
-    "url": "/static/media/bg.dc9db7e3.jpg"
+    "revision": "19f3394f7d9a365fd84de98745a6bede",
+    "url": "/static/media/banner2.19f3394f.jpg"
   },
   {
     "revision": "e52419719dd0c4c8b172136f0b625008",
     "url": "/static/media/bg.e5241971.jpg"
   },
   {
-    "revision": "e45b045878f5d710025b0edf2b116664",
-    "url": "/static/media/bg1.e45b0458.jpg"
+    "revision": "8e94cdc6e5ff218960dbe618b242969f",
+    "url": "/static/media/bg1.8e94cdc6.jpeg"
   },
   {
-    "revision": "047482699d9080626fda39fee07fcdab",
-    "url": "/static/media/bg2.04748269.jpg"
+    "revision": "6bacb37409c6da47f864f64f0ebc1e61",
+    "url": "/static/media/bg2.6bacb374.jpeg"
   },
   {
     "revision": "843781834b1db2908f08d921c6460c81",
     "url": "/static/media/bg2.84378183.jpg"
   },
   {
-    "revision": "ade34a38d10db85292f7d74bf22a855c",
-    "url": "/static/media/bg3.ade34a38.jpg"
+    "revision": "0594177adb43a83e13ddfb2620df0247",
+    "url": "/static/media/bg3.0594177a.jpeg"
   },
   {
     "revision": "e76de24b6d8ab5e920bb4d49241ad15f",
     "url": "/static/media/bg3.e76de24b.jpg"
   },
   {
+    "revision": "ebcf75fd383faec0d9cb95f7710b8160",
+    "url": "/static/media/bg4.ebcf75fd.jpeg"
+  },
+  {
+    "revision": "722261d2cda1e0f5648c6619a8de205c",
+    "url": "/static/media/bg5.722261d2.jpeg"
+  },
+  {
+    "revision": "331e70d9b413fb633c48f9db99862e30",
+    "url": "/static/media/bg6.331e70d9.jpeg"
+  },
+  {
+    "revision": "86042ecebc9bdf77e631ad6f85c44d79",
+    "url": "/static/media/bg7.86042ece.jpeg"
+  },
+  {
     "revision": "b08234a2b7e8e4fb2e3c4e713252021c",
     "url": "/static/media/bg7.b08234a2.jpg"
   },
   {
-    "revision": "0f5d5fb14ef1795fe6e13c1fb15a6984",
-    "url": "/static/media/container.0f5d5fb1.jpg"
+    "revision": "805e4b58e573494f5f00265b1c8dc51f",
+    "url": "/static/media/bg8.805e4b58.jpeg"
   },
   {
-    "revision": "8ca3e12351f0a506770c69bcf070ca33",
-    "url": "/static/media/container.8ca3e123.jpg"
+    "revision": "0f5d5fb14ef1795fe6e13c1fb15a6984",
+    "url": "/static/media/container.0f5d5fb1.jpg"
   },
   {
     "revision": "ac4f0b48ff6e228033308a915a68a968",
@@ -120,7 +128,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/mision.78e1d65d.jpg"
   },
   {
-    "revision": "28be3171798af04cd1a71946fc12e03f",
-    "url": "/static/media/port.28be3171.jpg"
+    "revision": "49bc4f617fa0b647fed5c2f9eede15ad",
+    "url": "/static/media/soja.49bc4f61.jpg"
   }
 ]);
