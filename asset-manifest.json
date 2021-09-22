@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.2432da76.chunk.css",
-    "main.js": "/static/js/main.88c833b0.chunk.js",
-    "main.js.map": "/static/js/main.88c833b0.chunk.js.map",
+    "main.css": "/static/css/main.8e1004f5.chunk.css",
+    "main.js": "/static/js/main.9f67b3b3.chunk.js",
+    "main.js.map": "/static/js/main.9f67b3b3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5da5d147.js",
     "runtime-main.js.map": "/static/js/runtime-main.5da5d147.js.map",
-    "static/js/2.22069b10.chunk.js": "/static/js/2.22069b10.chunk.js",
-    "static/js/2.22069b10.chunk.js.map": "/static/js/2.22069b10.chunk.js.map",
+    "static/js/2.149473d9.chunk.js": "/static/js/2.149473d9.chunk.js",
+    "static/js/2.149473d9.chunk.js.map": "/static/js/2.149473d9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a6e0cbeca3c4b575a1b5edb126a9866c.js": "/precache-manifest.a6e0cbeca3c4b575a1b5edb126a9866c.js",
+    "precache-manifest.22234d22604f82cff85c5c5f66c54e34.js": "/precache-manifest.22234d22604f82cff85c5c5f66c54e34.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.2432da76.chunk.css.map": "/static/css/main.2432da76.chunk.css.map",
-    "static/js/2.22069b10.chunk.js.LICENSE.txt": "/static/js/2.22069b10.chunk.js.LICENSE.txt",
+    "static/css/main.8e1004f5.chunk.css.map": "/static/css/main.8e1004f5.chunk.css.map",
+    "static/js/2.149473d9.chunk.js.LICENSE.txt": "/static/js/2.149473d9.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.5aa63847.jpg",
     "static/media/2.jpg": "/static/media/2.7ee2784b.jpg",
     "static/media/24-hours.svg": "/static/media/24-hours.ed0efd6d.svg",
@@ -110,6 +110,9 @@
     "static/media/numero.svg": "/static/media/numero.0307f696.svg",
     "static/media/oil.svg": "/static/media/oil.40a4a4ba.svg",
     "static/media/perro.svg": "/static/media/perro.e3c9f694.svg",
+    "static/media/perruquero.svg": "/static/media/perruquero.c272e1f5.svg",
+    "static/media/perruquero.jpeg": "/static/media/perruquero.ebbc41b8.jpeg",
+    "static/media/perruquero2.svg": "/static/media/perruquero2.b87aea77.svg",
     "static/media/phone.svg": "/static/media/phone.c50a8778.svg",
     "static/media/pintura.jpg": "/static/media/pintura.78637cdd.jpg",
     "static/media/pintura.svg": "/static/media/pintura.9a903fe4.svg",
@@ -153,8 +156,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5da5d147.js",
-    "static/js/2.22069b10.chunk.js",
-    "static/css/main.2432da76.chunk.css",
-    "static/js/main.88c833b0.chunk.js"
+    "static/js/2.149473d9.chunk.js",
+    "static/css/main.8e1004f5.chunk.css",
+    "static/js/main.9f67b3b3.chunk.js"
   ]
 }
