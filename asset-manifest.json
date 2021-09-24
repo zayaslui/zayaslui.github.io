@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.0ed82000.chunk.css",
-    "main.js": "/static/js/main.5253aaa8.chunk.js",
-    "main.js.map": "/static/js/main.5253aaa8.chunk.js.map",
+    "main.css": "/static/css/main.929ed170.chunk.css",
+    "main.js": "/static/js/main.8390da71.chunk.js",
+    "main.js.map": "/static/js/main.8390da71.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5da5d147.js",
     "runtime-main.js.map": "/static/js/runtime-main.5da5d147.js.map",
-    "static/js/2.f123398c.chunk.js": "/static/js/2.f123398c.chunk.js",
-    "static/js/2.f123398c.chunk.js.map": "/static/js/2.f123398c.chunk.js.map",
+    "static/js/2.9d36ce43.chunk.js": "/static/js/2.9d36ce43.chunk.js",
+    "static/js/2.9d36ce43.chunk.js.map": "/static/js/2.9d36ce43.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9a93097b770bc112b2438644b8d4427f.js": "/precache-manifest.9a93097b770bc112b2438644b8d4427f.js",
+    "precache-manifest.d114e1941663b847ae1f7b757d5c5749.js": "/precache-manifest.d114e1941663b847ae1f7b757d5c5749.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0ed82000.chunk.css.map": "/static/css/main.0ed82000.chunk.css.map",
-    "static/js/2.f123398c.chunk.js.LICENSE.txt": "/static/js/2.f123398c.chunk.js.LICENSE.txt",
+    "static/css/main.929ed170.chunk.css.map": "/static/css/main.929ed170.chunk.css.map",
+    "static/js/2.9d36ce43.chunk.js.LICENSE.txt": "/static/js/2.9d36ce43.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.5aa63847.jpg",
     "static/media/2.jpg": "/static/media/2.7ee2784b.jpg",
     "static/media/24-hours.svg": "/static/media/24-hours.ed0efd6d.svg",
@@ -121,6 +121,11 @@
     "static/media/perruquero4.svg": "/static/media/perruquero4.aa3676ff.svg",
     "static/media/perruquero5.svg": "/static/media/perruquero5.b2f336d6.svg",
     "static/media/perruquero6.svg": "/static/media/perruquero6.cbff1b85.svg",
+    "static/media/perruquero7.svg": "/static/media/perruquero7.6d3a803d.svg",
+    "static/media/perruquero_logo.jpeg": "/static/media/perruquero_logo.8ab0f672.jpeg",
+    "static/media/perruquero_logo.png": "/static/media/perruquero_logo.d80ceefb.png",
+    "static/media/perruquero_logo1.png": "/static/media/perruquero_logo1.10b6aabd.png",
+    "static/media/perruquero_logo2.png": "/static/media/perruquero_logo2.c86b30e8.png",
     "static/media/phone.svg": "/static/media/phone.c50a8778.svg",
     "static/media/phone2.svg": "/static/media/phone2.62ced1f6.svg",
     "static/media/phone3.svg": "/static/media/phone3.e8c59a7a.svg",
@@ -167,8 +172,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5da5d147.js",
-    "static/js/2.f123398c.chunk.js",
-    "static/css/main.0ed82000.chunk.css",
-    "static/js/main.5253aaa8.chunk.js"
+    "static/js/2.9d36ce43.chunk.js",
+    "static/css/main.929ed170.chunk.css",
+    "static/js/main.8390da71.chunk.js"
   ]
 }
