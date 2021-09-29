@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "453f6b3a63f004ddf43df3d39efb1ecf",
+    "revision": "76b26775f942fb3e6fc7e8e60fec06b3",
     "url": "/index.html"
   },
   {
-    "revision": "b9573e5cfdef4acde8ea",
-    "url": "/static/css/main.60487b72.chunk.css"
+    "revision": "30edf72be368364b5a39",
+    "url": "/static/css/main.dae252c8.chunk.css"
   },
   {
-    "revision": "738ba4b843614284034c",
-    "url": "/static/js/2.351c9db4.chunk.js"
+    "revision": "f291a321e2f9d5616a68",
+    "url": "/static/js/2.2428af77.chunk.js"
   },
   {
     "revision": "94f69ee1a2c44626d8a5a2b516f12b3d",
-    "url": "/static/js/2.351c9db4.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2428af77.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b9573e5cfdef4acde8ea",
-    "url": "/static/js/main.b80fcfef.chunk.js"
+    "revision": "30edf72be368364b5a39",
+    "url": "/static/js/main.4062df07.chunk.js"
   },
   {
     "revision": "c4f303ff010f9b7d8a41",
@@ -508,12 +508,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/perruquero5.b2f336d6.svg"
   },
   {
-    "revision": "ab000956c9e02925540105da3bd855b7",
-    "url": "/static/media/perruquero6.ab000956.svg"
+    "revision": "c253e777b740df9bd753024cfed9a910",
+    "url": "/static/media/perruquero6.c253e777.svg"
   },
   {
     "revision": "6d3a803deeb7cdcba23a904f4d50b024",
     "url": "/static/media/perruquero7.6d3a803d.svg"
+  },
+  {
+    "revision": "ab000956c9e02925540105da3bd855b7",
+    "url": "/static/media/perruquero8.ab000956.svg"
   },
   {
     "revision": "8ab0f67263bb98d1733d0acda927f785",
@@ -528,8 +532,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/perruquero_logo1.10b6aabd.png"
   },
   {
+    "revision": "29c812e272a5cd1e733cf985e3245e0f",
+    "url": "/static/media/perruquero_logo2.29c812e2.png"
+  },
+  {
     "revision": "c86b30e827fd9c45e5b1ab5b697d70af",
-    "url": "/static/media/perruquero_logo2.c86b30e8.png"
+    "url": "/static/media/perruquero_logo3.c86b30e8.png"
   },
   {
     "revision": "e3f90feb33a1169ce3c479efd460e8bb",
@@ -698,6 +706,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c0297e898402c548551216741b36bfd6",
     "url": "/static/media/veterinaria6.c0297e89.jpg"
+  },
+  {
+    "revision": "c253e777b740df9bd753024cfed9a910",
+    "url": "/static/media/veterinaria6.c253e777.svg"
   },
   {
     "revision": "11c9dd854f17af3f1b6bffe4506b9f13",
